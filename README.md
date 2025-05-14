@@ -8,7 +8,7 @@
 📫 You can reach me on Rakhadevs or rakhaadpr
 
 ## 🔧 Tech Stack
-- 💻 Languages: JavaScript, C#, Python
+- 💻 Languages: JavaScript, C#, Python, Java
 - 🎮 Game Dev: Unity, Krita (for pixel art)
-- 🌐 Web: Node.js, Express, HTML, CSS
+- 🌐 Web: Node.js, Express, HTML, Nuxt,Tailwind CSS
 - 🐧 OS: Ubuntu, Windows
